@@ -14,7 +14,15 @@ as the name is changed.
 
  0. You just DO WHAT THE FUCK YOU WANT TO.
 
+<<<<<<< HEAD
 ... bus aise hi
+=======
+just checking to see how commits work
+
+again..... bus aise hi.
+
+.. shaabaash bete
+>>>>>>> week1
 '''
 
 
